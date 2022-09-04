@@ -1,2 +1,1 @@
-#!/bin/bash
-#vagrant insatllation conpleted
+0-hello Ubuntu
